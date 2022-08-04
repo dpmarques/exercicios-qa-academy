@@ -4,7 +4,7 @@ import javax.swing.*;
 
 public class Exercicio_medium_1 {
 
-    static int i = 1; //numero
+    static int i = 1; //numeroaaaa
 
     public static void main(String[] args) {
 
